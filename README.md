@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my website on nothingtomuch.github.io
 - 🌱 I’m currently learning firebase and material css
 - 👯 I’m looking to collaborate on hariharansrc
-- 🤔 I’m looking for help with hariharansrc
-- 😄 Pronouns: learning 
+- 🤔 I’m looking for help with hariharansrc 
 -->
